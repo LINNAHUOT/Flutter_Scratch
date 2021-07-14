@@ -1,10 +1,10 @@
 #  Flutter_Scratch 
 ![Image of Flutter](https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif) <br />
-**Flutter** is google ui toolkit for building natively compiled apps for Mobile ,Desktop & Web. <br />
+**Flutter**(SDK develop by google): is google ui toolkit for building natively compiled apps for Mobile ,Desktop & Web which using Dart language. <br />
 Build :
 - [x] ios app
 - [x] Android  app <br />
-(both are using single codebase )
+( single codebase (once for both))
 
 ## :yellow_circle:  Widgets
 Everything is **Widgets** <br />
@@ -17,3 +17,4 @@ Use material design
 
  
 ......... ect ........ 
+

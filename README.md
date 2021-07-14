@@ -1,6 +1,6 @@
-#  Flutter_Scratch 
+#  Flutter_Scratch   [Flutter.dev](https://flutter.dev/) 
 ![Image of Flutter](https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif) <br />
-**Flutter**(SDK develop by google): is google ui toolkit for building natively compiled apps for Mobile ,Desktop & Web which using Dart language. <br />
+**Flutter Framework**(SDK (_pluging_) develop by google): is google ui toolkit for building natively compiled apps for Mobile ,Desktop & Web which using Dart language. <br />
 Build :
 - [x] ios app
 - [x] Android  app <br />
